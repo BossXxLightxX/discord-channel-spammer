@@ -1,0 +1,6 @@
+{
+  "token"  : "Enter sender's token.",
+  "id": "Enter channel ID.",
+  "message": "Enter message to send.",
+  "delay": "Delay in seconds."
+}
