@@ -7,4 +7,6 @@ Spams any Discord channel with a message.
 		* Use user tokens at your own risk. It breaks the Discord ToS.
 2. Run index.js.
 
+[Click here for a version that spams users.](https://github.com/llamasking/discord-user-spammer)
+
 **[Requires Discord.js.](discord.js.org)**
