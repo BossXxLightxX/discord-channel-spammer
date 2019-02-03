@@ -9,4 +9,4 @@ Spams any Discord channel with a message.
 
 [Click here for a version that spams users.](https://github.com/llamasking/discord-user-spammer)
 
-**[Requires Discord.js.](discord.js.org)**
+**[Requires Discord.js.](https://discord.js.org/#/)**
