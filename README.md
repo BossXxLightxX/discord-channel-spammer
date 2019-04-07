@@ -1,7 +1,13 @@
-#Discord Channel Spammer
+# Discord Channel Spammer
 Spams any Discord channel with a message.
 
-##To use:
+## Disclaimer.
+Apparently I must put a fucking disclamer here.
+DO NOT USE THIS. Seriously. Don't fucking use it. 
+It is against the Discord ToS. 
+I am not in any way endorsing anyone using this.
+
+## To use:
 1. Fill out config.json
 	* Can be either a bot or user token.
 		* Use user tokens at your own risk. It breaks the Discord ToS.
